@@ -1,5 +1,5 @@
 ## Proxy example
-Simple proxy server for VK
+Simple proxy server for VK with rate limit (5 requests in 5 seconds)
 
 #### Installing
 - Install Python >=3.6
